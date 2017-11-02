@@ -35,7 +35,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Daniel Mosse, University of Pittsburgh
   - Mu Zhang, Cornell University
   - Siddharth Garg, NYU
-  - Rakesh Kumar,	University of Illinois at Urbana-Champaign
+  - Rakesh Bobba,	Oregon State University
   - Ramya Raghavendra, IBM Research
   - Man-Ki Yoon, Yale University
   - Henry Duwe, Iowa State University
