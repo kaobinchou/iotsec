@@ -21,7 +21,8 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Lightweight cryptography algorithms for use in IoT systems
   - Privacy-preserving computation models that can run on limited resources available to IoT devices
   - Machine learning for security of IoT devices/services
-  - Modeling, verification and formal methods for security methods for the IoT domain.
+  - Modeling, verification and formal methods for security methods for the IoT domain
+  - Security and privacy of the cloud infrastructure for IoT
 
 
 
@@ -35,6 +36,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Daniel Mosse, University of Pittsburgh
   - Mu Zhang, Cornell University
   - Siddharth Garg, NYU
+  - Rakesh Kumar, University of Illinois at Urbana-Champaign
   - Rakesh Bobba,	Oregon State University
   - Ramya Raghavendra, IBM Research
   - Man-Ki Yoon, Yale University
@@ -42,6 +44,10 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Negin Salajageh, Visa Research
   - Adam Bates,	University of Illinois at Urbana-Champaign
   - Bo Li, University of California, Berkeley
+
+### Web Chair
+  - Monowar Hasan, University of Illinois at Urbana-Champaign
+
 
 <!-- Markdown cheatsheet
 - Bulleted
