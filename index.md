@@ -1,3 +1,8 @@
+---
+title: IoTSec 2018
+layout: post
+---
+
 
 ## 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec)
 
