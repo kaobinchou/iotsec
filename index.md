@@ -1,6 +1,5 @@
 ---
 title: IoTSec 2018
-layout: post
 ---
 
 
