@@ -27,11 +27,12 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Modeling, verification and formal methods for security methods for the IoT domain
   - Security and privacy of the cloud infrastructure for IoT
 
+<!-- 
 ### Improtant Dates
-
   - Submission deadline: **Jan 30, 2018**
   - Notification of acceptance: **March 6, 2018**
   - Final paper due: **March 20, 2018**
+  -->
 
 ### Technical Program Committee
   - Sean Smith, Dartmouth College 
