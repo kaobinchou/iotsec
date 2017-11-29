@@ -31,8 +31,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Full papers describing original research in the area of security and privacy for Internet-of-Things (IoT). 
 
   Submissions limited to **four**, **two column**, pages 
-  
-  _Template: [https://www.ieee.org/conferences_events/conferences/publishing/templates.html](https://www.ieee.org/conferences_events/conferences/publishing/templates.html))_
+  _Template: [https://www.ieee.org/conferences_events/conferences/publishing/templates.html](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)_
 
   
 
