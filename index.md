@@ -24,6 +24,17 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Machine learning for security of IoT devices/services
   - Modeling, verification and formal methods for security methods for the IoT domain
   - Security and privacy of the cloud infrastructure for IoT
+  
+  ### Submission Guideline
+  
+  All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+  - Full papers describing original research in the area of security and privacy for Internet-of-Things (IoT). 
+
+  Submissions limited to **four**, **two column**, pages 
+  
+  _Template: [https://www.ieee.org/conferences_events/conferences/publishing/templates.html](https://www.ieee.org/conferences_events/conferences/publishing/templates.html))_
+
+  
 
 <!-- 
 ### Improtant Dates
