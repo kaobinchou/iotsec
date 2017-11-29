@@ -33,6 +33,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   Submissions limited to **four**, **two column**, pages 
   _Template: [https://www.ieee.org/conferences_events/conferences/publishing/templates.html](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)_
 
+**Submission site:** [https://easychair.org/conferences/?conf=iotsec2018](https://easychair.org/conferences/?conf=iotsec2018)
   
 
 <!-- 
