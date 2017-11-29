@@ -25,7 +25,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Modeling, verification and formal methods for security methods for the IoT domain
   - Security and privacy of the cloud infrastructure for IoT
   
-  ### Submission Guideline
+### Submission Guideline
   
   All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
   - Full papers describing original research in the area of security and privacy for Internet-of-Things (IoT). 
