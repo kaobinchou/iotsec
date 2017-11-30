@@ -31,7 +31,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
 ### Submission Guideline
   
   All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
-  - Full papers describing original research in the area of security and privacy for Internet-of-Things (IoT). 
+  - Papers describing original research in the area of security and privacy for Internet-of-Things (IoT). 
 
   Submissions limited to **four**, **two column**, pages 
   
