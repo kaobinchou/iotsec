@@ -65,6 +65,8 @@ _**Submission site:** <a href="https://easychair.org/conferences/?conf=iotsec201
   - Negin Salajageh, Visa Research
   - Adam Bates,	University of Illinois at Urbana-Champaign
   - Bo Li, University of California, Berkeley
+  - Ing-Ray Chen, Virginia Tech
+  
 
 ### Web Chair
   - Monowar Hasan, University of Illinois at Urbana-Champaign
