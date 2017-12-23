@@ -28,6 +28,12 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Modeling, verification and formal methods for security methods for the IoT domain
   - Security and privacy of the cloud infrastructure for IoT
   
+  
+### Improtant Dates
+  - Submission deadline: **Feb 1, 2018**
+  - Notification of acceptance: **March 6, 2018**
+  - Final paper due: **March 11, 2018**
+
 ### Submission Guideline
   
   All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
@@ -40,13 +46,9 @@ The areas of interest for the workshop includes, but is not limited to, the foll
 _**Submission site:** <a href="https://easychair.org/conferences/?conf=iotsec2018" target="blank">https://easychair.org/conferences/?conf=iotsec2018 </a>_
   
   
-<!-- 
-### Improtant Dates
-  - Submission deadline: **Jan 30, 2018**
-  - Notification of acceptance: **March 6, 2018**
-  - Final paper due: **March 20, 2018**
-  -->
-  
+
+ 
+ 
   
 ### Organizers
   - 
