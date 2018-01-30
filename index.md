@@ -9,6 +9,9 @@ title: IoTSec 2018
 
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
+**_Update (01/25/2017): Deadline Extended to Feb 08, 2018_**
+
+
 The Internet-of-Things (IoT) has taken off in a big way and finds itself embedded in our daily lives – from smart home applications to process control monitoring in manufacturing systems, wearables to healthcare, public utilities to military applications, to name just a few. The surge in interest in smart cities increases the scope and reach of IoT-style applications in a significant manner. These applications generate huge volumes of data, have access to personal and confidential information, monitor and control critical processes and are often accessed/controlled via public networks such as the Internet. Hence, they are prime targets for malicious entities and have little to no security mechanisms in place. In addition, most users of such devices/systems are not cognizant of the privacy issues – leakage of personal information for instance, or external entities being able to retrace/recreate our activities from public data obtained through the use of IoT devices/services. On the other hand, onerous security and privacy mechanisms may render these systems useless for most consumers. Hence, there is a need to develop innovative techniques to improve protections for such systems. This is particularly challenging since many IoT systems are often limited in terms of computation power, memory, battery life, bandwidth, etc.
 
 Hence, the goal of IoTSec will be to bring together experts in various areas (security, privacy, embedded systems, sensor networks, etc. along with domains experts from medicine, manufacturing systems, mobile devices and so on) to study and develop security and (usable) privacy mechanisms for next generation IoT systems.
@@ -30,7 +33,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   
   
 ### Improtant Dates
-  - Submission deadline: **Feb 8, 2018**
+  - Submission deadline: ~~Feb 8, 2018~~ **Feb 8, 2018**
   - Notification of acceptance: **March 6, 2018**
   - Final paper due: **March 11, 2018**
 
