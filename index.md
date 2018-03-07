@@ -37,7 +37,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   
 ### Improtant Dates
   - Submission deadline: **~~Feb 1, 2018~~** **Feb 8, 2018 anywhere on Earth (GMT-12)**
-  - Notification of acceptance: **March 6, 2018**
+  - Notification of acceptance: **~~March 6, 2018~~** **March 8, 2018**
   - Final paper due: **March 11, 2018**
 
 ### Submission Guideline
