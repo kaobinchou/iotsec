@@ -11,6 +11,7 @@ title: IoTSec 2018
 
 
 > **_Update (01/25/2017): Deadline Extended to Feb 08, 2018 (GMT-12)_**
+> **_Update (03/09/2017): Camera ready papers are due by March 19, 2018 [11:59 PM GMT-12])_**
 
 
 
@@ -39,6 +40,7 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Submission deadline: **~~Feb 1, 2018~~** **Feb 8, 2018 anywhere on Earth (GMT-12)**
   - Notification of acceptance: **~~March 6, 2018~~** **March 8, 2018**
   - Final paper due: **March 11, 2018**
+  - Final (camera-ready) papers due: **~~March 11, 2018~~** **March 19, 2018 [11:59 PM GMT-12]**
 
 ### Submission Guideline
   
