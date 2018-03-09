@@ -10,9 +10,8 @@ title: IoTSec 2018
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
 
-> **_Update (01/25/2017): Deadline Extended to Feb 08, 2018 (GMT-12)_**
 > **_Update (03/09/2017): Camera ready papers are due by March 19, 2018 [11:59 PM GMT-12])_**
-
+> **_Update (01/25/2017): Deadline Extended to Feb 08, 2018 (GMT-12)_**
 
 
 
