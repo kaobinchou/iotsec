@@ -8,6 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     
    
+
+   
   </head>
    
 ---
@@ -15,6 +17,7 @@ title: IoTSec 2018 Accepted Papers with Abstracts
 ---
 
 <body>
+       <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
       <h1>IoTSec 2018 Accepted Papers with Abstracts </h1>
       <div class="paper"><span class="authors"><span><a href="http://www.soterisdemetriou.com">Soteris Demetriou</a>, Nathaniel D. Kaufman, Jonah Baim, Adam J. Goldsher and Carl A. Gunter</span>. </span><span class="title">Toward an Extensible Framework for Redaction</span></div><div class="abstract"><b>Abstract: </b>Data is being created at an increasing rate by sources like the IoT devices, social media, and camera monitors. This data frequently includes sensitive information that parties must redact to adhere to laws and user privacy policies. At the same time, there is steady progress on recognizers that find latent information within rich data streams, and thereby create fresh privacy risks. In this work, we advocate the idea of developing a modular, extensible toolkit based on decognizers which are information hiding functions derived from recognizers that redact sensitive information. We offer steps towards an abstract conceptual framework and compositional techniques and discuss requirements for such a toolkit.</div>    
       <br>
