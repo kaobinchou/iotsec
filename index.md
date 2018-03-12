@@ -10,6 +10,10 @@ title: IoTSec 2018
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
 
+
+> **_News (03/12/2017): Keynote speaker:  <a href="http://web.engr.illinois.edu/~dmnicol/" target="_blank">Dr. David Nicol</a>, University of Illinois_ Talk: [TBD]**
+
+
 > **_Update (03/11/2017): List of acceptated papres are now available <a href="acceptedpapers_18/acceptedpapers.html" target="_blank">[here]</a>_**
 
 
