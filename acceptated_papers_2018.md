@@ -8,12 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>IoTSec 2018 Accepted Papers with Abstracts</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+   
   </head>
    
 
