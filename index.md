@@ -10,7 +10,7 @@ title: IoTSec 2018
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
 
-> **_Update (03/11/2017): List of acceptated papres are now available [here](accepted_papers_2018.html)_**
+> **_Update (03/11/2017): List of acceptated papres are now available [here](acceptedpapers_18/acceptedpapers.html)_**
 
 > **_Update (03/09/2017): Camera ready papers are due by March 19, 2018 [11:59 PM GMT-12])_**
 
@@ -36,38 +36,38 @@ The areas of interest for the workshop includes, but is not limited to, the foll
   - Machine learning for security of IoT devices/services
   - Modeling, verification and formal methods for security methods for the IoT domain
   - Security and privacy of the cloud infrastructure for IoT
-  
-  
+
+
 ### Improtant Dates
   - Submission deadline: **~~Feb 1, 2018~~** **Feb 8, 2018 anywhere on Earth (GMT-12)**
   - Notification of acceptance: **~~March 6, 2018~~** **March 8, 2018**
   - Final (camera-ready) papers due: **~~March 11, 2018~~** **March 19, 2018 [11:59 PM GMT-12]**
 
 ### Submission Guideline
-  
-  All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
-  - Papers describing original research in the area of security and privacy for Internet-of-Things (IoT). 
 
-  Submissions limited to **four**, **two column**, pages 
-  
+  All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+  - Papers describing original research in the area of security and privacy for Internet-of-Things (IoT).
+
+  Submissions limited to **four**, **two column**, pages
+
   _**Template:** <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="blank">https://www.ieee.org/conferences_events/conferences/publishing/templates.html </a>_
 
 _**Submission site:** <a href="https://easychair.org/conferences/?conf=iotsec2018" target="blank">https://easychair.org/conferences/?conf=iotsec2018 </a>_
-  
-  
 
- 
- 
-  
+
+
+
+
+
 ### Organizers
-  - 
+  -
   <a href="http://sibin-research.blogspot.com/" target="_blank">Sibin Mohan</a>, University of Illinois at Urbana-Champaign (UIUC)
-  - 
-  <a href="http://elaineshi.com/" target="_blank">Elaine Shi</a>, Cornell University 
+  -
+  <a href="http://elaineshi.com/" target="_blank">Elaine Shi</a>, Cornell University
 
 ### Technical Program Committee
-  - Sean Smith, Dartmouth College 
-  - Gedare Bloom, Howard University 
+  - Sean Smith, Dartmouth College
+  - Gedare Bloom, Howard University
   - Gabriela Ciocarlie, SRI International    
   - Miroslav Pajic, Duke University
   - Bryan Ward, MIT Lincoln Laboratory
@@ -84,7 +84,7 @@ _**Submission site:** <a href="https://easychair.org/conferences/?conf=iotsec201
   - Adam Bates,	University of Illinois at Urbana-Champaign
   - Bo Li, University of California, Berkeley
   - Ing-Ray Chen, Virginia Tech
-  
+
 
 ### Web Chair
   - Monowar Hasan, University of Illinois at Urbana-Champaign
