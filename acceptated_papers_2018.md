@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Minimal by Steve Smith</title>
+    <title>IoTSec 2018 Accepted Papers with Abstracts</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -19,11 +19,6 @@
     <![endif]-->
   </head>
    
-
-<title>IoTSec 2018 Accepted Papers with Abstracts</title>
-<script>window['ec:pageId']='2133411897683279872'</script>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<script>if(self != top) {top.location = self.location} else {document.documentElement.style.display = "block"}</script><script>if(self != top) {top.location = self.location}</script>
 
 
 </head>
