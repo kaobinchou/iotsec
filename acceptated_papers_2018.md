@@ -5,8 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" style="display:none" lang="en-US">
 <head>
 
-    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+   
 
 <title>IoTSec 2018 Accepted Papers with Abstracts</title>
 <script>window['ec:pageId']='2133411897683279872'</script>
