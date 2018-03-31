@@ -76,12 +76,10 @@ _Ioannis Agadakos, Gabriela Ciocarlie, Bogdan Copos, Tancrede Lepoint, Ulf Lindq
 _Soteris Demetriou, Nathaniel D. Kaufman, Jonah Baim, Adam J. Goldsher and Carl A. Gunter. Toward an Extensible Framework for Redaction_
 <br>
 <br>
-
 2:10 PM -- 2:30 PM <br>
 _Sudip Vhaduri and Christian Poellabauer. Implicit Authentication in Wearables Using Multiple Biometrics_
 <br>
 <br>
-
 2:30 PM -- 2:50 PM <br>
 _Andrew Weyl and George Williamson. A Multinational Legal Examination of Individual Security Risks Related to the Internet of Things_
 
@@ -95,22 +93,18 @@ _Andrew Weyl and George Williamson. A Multinational Legal Examination of Individ
 _Giovani Gracioli, Murray Dunne and Sebastian Fischmeister. A Comparison of Data Streaming Frameworks for Anomaly Detection in Embedded Systems_
 <br>
 <br>
-
 3:50 PM -- 4:00 PM <br>
 _Safa Boudabous, Stephan Clémençon, Ons Jelassi and Mariona Caros Roca. A secure IoT architecture for streaming data analysis and anomaly detection_
 <br>
 <br>
-
 4:10 PM -- 4:30 PM <br>
 _Ebelechukwu Nwafor, Andre Campbell and Gedare Bloom. Anomaly-based Intrusion Detection of IoT Device Sensor Data using Provenance Graphs_
 <br>
 <br>
-
 4:30 PM -- 4:50 PM <br>
 _Hamed Haddadi, Vassilis Christophides, Renata Cruz Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig. SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security_
 <br>
 <br>
-
 4:50 PM -- 5:00 PM <br>
 _Concluding Remarks_
 
