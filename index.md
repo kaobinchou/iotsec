@@ -9,9 +9,13 @@ title: IoTSec 2018
 
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
+> **_News (03/30/2017): Full workshop program available!_**
 
 
-> **_News (03/12/2017): Keynote speaker:  <a href="http://web.engr.illinois.edu/~dmnicol/" target="_blank">Dr. David Nicol</a>, University of Illinois_. Talk: [TBD]**
+> **_News (03/30/2017): Keynote speaker:  <a href="http://web.engr.illinois.edu/~dmnicol/" target="_blank">Dr. David Nicol</a>, University of Illinois_. Talk: The Role of Modeling and Simulation in IOT Security Research**
+
+
+<!-- > **_News (03/12/2017): Keynote speaker:  <a href="http://web.engr.illinois.edu/~dmnicol/" target="_blank">Dr. David Nicol</a>, University of Illinois_. Talk: [TBD]** -->
 
 
 <!-- > **_Update (03/11/2017): List of accepted papres are now available <a href="acceptedpapers_18/acceptedpapers.html" target="_blank">[here]</a>_** -->
@@ -128,7 +132,10 @@ in assessing security problems and solutions.  This talk highlights the opportun
 and identifies the associated challenges._
 * * *
 
-<img style="float:left;" src="/figs/dnicole.jpeg">
+
+<img align="left" width="100" height="100" src="./figs/dnicole.jpeg">
+
+
 
 _Speaker Bio:_
 David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer Engineering at the University of Illinois at Urbana‐Champaign, and Director of the Information Trust Institute (iti.illinois.edu).   He is PI for two national centers for infrastructure resilience: the DHS‐funded Critical Infrastructure Reliance Institute (ciri.illinois.edu), and the DoE funded Cyber Resilient Energy Delivery Consortium (cred‐c.org); he is also PI for the Boeing Trusted Software Center, and co-PI for the NSA‐funded Science of Security lablet.  Prior to joining UIUC in 2003 he served on the faculties of the computer science departments at Dartmouth College (1996‐2003), and before that the College of William and Mary (1987‐1996).  He has won recognition for excellence in teaching at all three universities. His research interests include trust analysis of networks and software, analytic modeling, and parallelized discrete‐event simulation, research which has led to the founding of startup company Network Perception, and election as Fellow of the IEEE and Fellow of the ACM. He is the inaugural recipient of the ACM SIGSIM Outstanding Contributions award, and co‐author of the widely used undergraduate textbook "Discrete‐Event Systems Simulation". 
