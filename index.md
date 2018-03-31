@@ -43,8 +43,9 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 | | |
 
 
-          Kuddus          |       Boyati          
-------------------------- | ---------------  
+
+                          |          
+------------------------- | --------------- 
 ShinRa                    | Mako Reactors   
 Moogles                   | MogNet          
 Vana'diel Chocobo Society | Chocobo Raising 
