@@ -47,13 +47,18 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 | 8:30 AM-8:45 AM     Welcome Remarks |
 | 8:45 AM-9:45 AM      Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
 
-
+| |  |
+-|-
+8:30 AM-8:45 AM           | Welcome Remarks   
+8:4 5AM-9:45 AM           | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign          
+9:45 AM-10:00 AM          | Q & A 
+This is a long line          | Q & A 
 
 Time                      | Agenda         
 ------------------------- | --------------- 
-8:30AM-8:45AM           | Welcome Remarks   
-8:45AM-9:45AM           | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign          
-9:45AM-10:00AM          | Q & A 
+8:30 AM-8:45 AM           | Welcome Remarks   
+8:45 AM-9:45 AM           | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign          
+9:45 AM-10:00 AM          | Q & A 
 This is a long line          | Q & A 
 
 
