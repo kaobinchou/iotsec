@@ -135,7 +135,7 @@ and identifies the associated challenges._
 
 <!--<img align="left" src="./figs/dnicole.jpeg"> -->
 
-![](./figs/dnicole.jpeg){:style="float: left;margin-right: 7px;margin-top: 7px; margin-left: 7px;"}
+![](./figs/dnicole.jpeg){:style="float: left;margin-right: 15px;margin-top: 0px; margin-left: 0px;"}
 
 
 
