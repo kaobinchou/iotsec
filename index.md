@@ -128,6 +128,7 @@ the IOT infrastructure is opaque to us?  There is a role for modeling and simula
 in assessing security problems and solutions.  This talk highlights the opportunities
 and identifies the associated challenges._
 * * *
+<img style="float: right;" src="/figs/dnicole.jpeg">
 _Speaker Bio:_
 David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer Engineering at the University of Illinois at Urbana‐Champaign, and Director of the Information Trust Institute (iti.illinois.edu).   He is PI for two national centers for infrastructure resilience: the DHS‐funded Critical Infrastructure Reliance Institute (ciri.illinois.edu), and the DoE funded Cyber Resilient Energy Delivery Consortium (cred‐c.org); he is also PI for the Boeing Trusted Software Center, and co-PI for the NSA‐funded Science of Security lablet.  Prior to joining UIUC in 2003 he served on the faculties of the computer science departments at Dartmouth College (1996‐2003), and before that the College of William and Mary (1987‐1996).  He has won recognition for excellence in teaching at all three universities. His research interests include trust analysis of networks and software, analytic modeling, and parallelized discrete‐event simulation, research which has led to the founding of startup company Network Perception, and election as Fellow of the IEEE and Fellow of the ACM. He is the inaugural recipient of the ACM SIGSIM Outstanding Contributions award, and co‐author of the widely used undergraduate textbook "Discrete‐Event Systems Simulation". 
 * * *
