@@ -32,6 +32,31 @@ The Internet-of-Things (IoT) has taken off in a big way and finds itself embedde
 
 Hence, the goal of IoTSec will be to bring together experts in various areas (security, privacy, embedded systems, sensor networks, etc. along with domains experts from medicine, manufacturing systems, mobile devices and so on) to study and develop security and (usable) privacy mechanisms for next generation IoT systems.
 
+### Keynote: Prof. David M. Nicol, Univeristy of Illinois at Urban-Champaign
+
+#### **Title: The Role of Modeling and Simulation in IoT Security Research**
+
+**_Abstract:_**
+_Many of the challenges of security in IOT relate to scale.  How do we
+discover what scaling problems exist?  How do we evaluate solutions to the
+problems we foresee?  While measurement of many many IoT devices concurrently
+may be possible, what sense can we make of the measurements when so much of 
+the IoT infrastructure is opaque to us?  There is a role for modeling and simulation
+in assessing security problems and solutions.  This talk highlights the opportunities
+and identifies the associated challenges._
+* * *
+
+
+<!--<img align="left" src="./figs/dnicole.jpeg"> -->
+
+![](./figs/dnicole.jpeg){:style="float: left;margin-right: 15px;margin-top: 0px; margin-left: 0px;"}
+
+
+
+**_Speaker Bio:_**
+David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer Engineering at the University of Illinois at Urbana‐Champaign, and Director of the Information Trust Institute (iti.illinois.edu). He is PI for two national centers for infrastructure resilience: the DHS‐funded Critical Infrastructure Reliance Institute (ciri.illinois.edu), and the DoE funded Cyber Resilient Energy Delivery Consortium (cred‐c.org); he is also PI for the Boeing Trusted Software Center, and co-PI for the NSA‐funded Science of Security lablet.  Prior to joining UIUC in 2003 he served on the faculties of the computer science departments at Dartmouth College (1996‐2003), and before that the College of William and Mary (1987‐1996).  He has won recognition for excellence in teaching at all three universities. His research interests include trust analysis of networks and software, analytic modeling, and parallelized discrete‐event simulation, research which has led to the founding of startup company Network Perception, and election as Fellow of the IEEE and Fellow of the ACM. He is the inaugural recipient of the ACM SIGSIM Outstanding Contributions award, and co‐author of the widely used undergraduate textbook "Discrete‐Event Systems Simulation". 
+* * *
+
 ### Program
 
 * * *
@@ -118,30 +143,7 @@ _Concluding Remarks_
 * * *
  
 
-#### Keynote: Prof. David M. Nicol, Univeristy of Illinois at Urban-Champaign
 
-**Title: The Role of Modeling and Simulation in IOT Security Research**
-
-**_Abstract:_**
-_Many of the challenges of security in IOT relate to scale.  How do we
-discover what scaling problems exist?  How do we evaluate solutions to the
-problems we foresee?  While measurement of many many IOT devices concurrently
-may be possible, what sense can we make of the measurements when so much of 
-the IOT infrastructure is opaque to us?  There is a role for modeling and simulation
-in assessing security problems and solutions.  This talk highlights the opportunities
-and identifies the associated challenges._
-* * *
-
-
-<!--<img align="left" src="./figs/dnicole.jpeg"> -->
-
-![](./figs/dnicole.jpeg){:style="float: left;margin-right: 15px;margin-top: 0px; margin-left: 0px;"}
-
-
-
-**_Speaker Bio:_**
-David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer Engineering at the University of Illinois at Urbana‐Champaign, and Director of the Information Trust Institute (iti.illinois.edu).   He is PI for two national centers for infrastructure resilience: the DHS‐funded Critical Infrastructure Reliance Institute (ciri.illinois.edu), and the DoE funded Cyber Resilient Energy Delivery Consortium (cred‐c.org); he is also PI for the Boeing Trusted Software Center, and co-PI for the NSA‐funded Science of Security lablet.  Prior to joining UIUC in 2003 he served on the faculties of the computer science departments at Dartmouth College (1996‐2003), and before that the College of William and Mary (1987‐1996).  He has won recognition for excellence in teaching at all three universities. His research interests include trust analysis of networks and software, analytic modeling, and parallelized discrete‐event simulation, research which has led to the founding of startup company Network Perception, and election as Fellow of the IEEE and Fellow of the ACM. He is the inaugural recipient of the ACM SIGSIM Outstanding Contributions award, and co‐author of the widely used undergraduate textbook "Discrete‐Event Systems Simulation". 
-* * *
 ### Areas of Interest
 
 The areas of interest for the workshop includes, but is not limited to, the following:
