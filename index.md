@@ -102,7 +102,6 @@ _Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin and Ji Xiang. Hey, You, Ke
 _Ioannis Agadakos, Gabriela Ciocarlie, Bogdan Copos, Tancrede Lepoint, Ulf Lindqvist and Michael Locasto. Butterfly Effect: Causality from Chaos in the IoT_
 <br>
 <br>
-
 1:50 PM -- 2:10 PM <br>
 _Soteris Demetriou, Nathaniel D. Kaufman, Jonah Baim, Adam J. Goldsher and Carl A. Gunter. Toward an Extensible Framework for Redaction_
 <br>
