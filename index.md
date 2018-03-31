@@ -14,11 +14,11 @@ title: IoTSec 2018
 > **_News (03/12/2017): Keynote speaker:  <a href="http://web.engr.illinois.edu/~dmnicol/" target="_blank">Dr. David Nicol</a>, University of Illinois_. Talk: [TBD]**
 
 
-> **_Update (03/11/2017): List of accepted papres are now available <a href="acceptedpapers_18/acceptedpapers.html" target="_blank">[here]</a>_**
+<!-- > **_Update (03/11/2017): List of accepted papres are now available <a href="acceptedpapers_18/acceptedpapers.html" target="_blank">[here]</a>_** -->
 
 
 
-> **_Update (03/09/2017): Camera ready papers are due by March 19, 2018 [11:59 PM GMT-12])_**
+<!-- > **_Update (03/09/2017): Camera ready papers are due by March 19, 2018 [11:59 PM GMT-12])_** -->
 
 <!-- > **_Update (01/25/2017): Deadline Extended to Feb 08, 2018 (GMT-12)_** -->
 
@@ -32,10 +32,10 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 
 | | |
 |-|-|
-| 8:30 AM - 8:45 AM | Welcome Remarks |
-| 8:45 AM - 9:45 AM | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
-| 9:45 AM - 10:00 AM | Q & A |
-| __10:00 AM - 10:30 AM__ | __COFFEE BREAK__ |
+| 8:30 AM-8:45 AM | Welcome Remarks |
+| 8:45 AM-9:45 AM | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
+| 9:45 AM-10:00 AM | Q & A |
+| __10:00 AM-10:30 AM__ | __COFFEE BREAK__ |
 | | |
 
 #### __Session I: Attacks and Defenses__ 
