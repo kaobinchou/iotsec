@@ -31,15 +31,41 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 ### Program
 
 _8:30 AM -- 8:45 AM_ <br> Welcome Remarks
-* * *
+<br>
+<br>
 _8:45 AM -- 9:45 AM_ <br> Keynote: "The Role of Modeling and Simulation in IOT Security Research" <br>
 		   	    Prof. David M. Nicol, 
 			    Univeristy of Illinois at Urban-Champaign
-* * *
+<br>
+<br>
 _9:45 AM -- 10:00 AM_ <br> Q & A
 * * *
-**_10:00 AM -- 10:30 AM_ <br> COFFEE BREAK **
+**_10:00 AM -- 10:30 AM_** <br> **COFFEE BREAK**
 * * *
+#### Session I: Attacks and Defenses
+_10:30 AM -- 10:50 AM_ <br>
+Yuan Gong and Christian Poellabauer. An Overview of Vulnerabilities of Voice Controlled System
+<br>
+<br>
+_10:50 AM -- 11:10 AM_ <br> 
+Abhinav Mohanty, Islam Obaidat, Fadi Yilmaz and Meera Sridhar. Control-hijacking Vulnerabilities in IoT Firmware: A Brief Survey
+<br>
+<br>
+_11:10 AM -- 11:30 AM_ <br> 
+Daniel Sanchez and Bogdan Copos. Cognitive Enhancement as an Attack Surface
+<br>
+<br>
+_11:30 AM -- 11:50 AM_ <br>
+Hui Lin. SDN-based In-network Honeypot: Preemptively Disrupt and Mislead Attacks in IoT Network
+<br>
+<br>
+_11:50 AM -- 12:10 PM_ <br>
+Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin and Ji Xiang. Hey, You, Keep away from My Device: Remotely Implanting a Virus Expeller to Defeat Mirai on IoT Devices
+* * *
+**_12:10 PM -- 1:30 PM_** <br>
+**LUNCH BREAK**
+* * *
+
 
 
 
