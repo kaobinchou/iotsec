@@ -28,6 +28,21 @@ The Internet-of-Things (IoT) has taken off in a big way and finds itself embedde
 
 Hence, the goal of IoTSec will be to bring together experts in various areas (security, privacy, embedded systems, sensor networks, etc. along with domains experts from medicine, manufacturing systems, mobile devices and so on) to study and develop security and (usable) privacy mechanisms for next generation IoT systems.
 
+### Program
+
+| | |
+|-|-|
+| 8:30 AM - 8:45 AM | Welcome Remarks |
+| 8:45 AM - 9:45 AM | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
+| 9:45 AM - 10:00 AM | Q & A |
+| __10:00 AM - 10:30 AM__ | __COFFEE BREAK__ |
+| | |
+
+#### __Session I: Attacks and Defenses__ 
+|__BoldKey__| Value2 |
+| | |
+
+
 ### Areas of Interest
 
 The areas of interest for the workshop includes, but is not limited to, the following:
