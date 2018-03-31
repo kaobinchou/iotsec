@@ -34,7 +34,7 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 
 * * *
 
-### Keynote: Prof. David M. Nicol, Univeristy of Illinois at Urban-Champaign
+### Keynote: Prof. David M. Nicol, Univeristy of Illinois at Urbana-Champaign
 
 #### **Title: The Role of Modeling and Simulation in IoT Security Research**
 
@@ -65,9 +65,9 @@ David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer E
 8:30 AM -- 8:45 AM <br> _Welcome Remarks_
 <br>
 <br>
-8:45 AM -- 9:45 AM <br> _Keynote: "The Role of Modeling and Simulation in IOT Security Research" <br>
+8:45 AM -- 9:45 AM <br> _Keynote: "The Role of Modeling and Simulation in IoT Security Research" <br>
 		   	    Prof. David M. Nicol, 
-			    Univeristy of Illinois at Urban-Champaign_
+			    Univeristy of Illinois at Urbana-Champaign_
 <br>
 <br>
 9:45 AM -- 10:00 AM <br> _Q & A_
