@@ -43,6 +43,13 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 | | |
 
 
+          Kuddus          |       Boyati          
+------------------------- | ---------------  
+ShinRa                    | Mako Reactors   
+Moogles                   | MogNet          
+Vana'diel Chocobo Society | Chocobo Raising 
+
+
 ### Areas of Interest
 
 The areas of interest for the workshop includes, but is not limited to, the following:
