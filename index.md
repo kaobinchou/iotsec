@@ -31,65 +31,94 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 ### Program
 
 * * *
-_8:30 AM -- 8:45 AM_ <br> Welcome Remarks
+8:30 AM -- 8:45 AM <br> _Welcome Remarks_
 <br>
 <br>
-_8:45 AM -- 9:45 AM_ <br> Keynote: "The Role of Modeling and Simulation in IOT Security Research" <br>
+8:45 AM -- 9:45 AM <br> _Keynote: "The Role of Modeling and Simulation in IOT Security Research" <br>
 		   	    Prof. David M. Nicol, 
-			    Univeristy of Illinois at Urban-Champaign
+			    Univeristy of Illinois at Urban-Champaign_
 <br>
 <br>
-_9:45 AM -- 10:00 AM_ <br> Q & A
+9:45 AM -- 10:00 AM <br> _Q & A_
 * * *
-**_10:00 AM -- 10:30 AM_** <br> **COFFEE BREAK**
+**10:00 AM -- 10:30 AM** <br> **COFFEE BREAK**
 * * *
 #### Session I: Attacks and Defenses
-_10:30 AM -- 10:50 AM_ <br>
-Yuan Gong and Christian Poellabauer. An Overview of Vulnerabilities of Voice Controlled System
+10:30 AM -- 10:50 AM <br>
+_Yuan Gong and Christian Poellabauer. An Overview of Vulnerabilities of Voice Controlled System_
 <br>
 <br>
-_10:50 AM -- 11:10 AM_ <br> 
-Abhinav Mohanty, Islam Obaidat, Fadi Yilmaz and Meera Sridhar. Control-hijacking Vulnerabilities in IoT Firmware: A Brief Survey
+10:50 AM -- 11:10 AM <br> 
+_Abhinav Mohanty, Islam Obaidat, Fadi Yilmaz and Meera Sridhar. Control-hijacking Vulnerabilities in IoT Firmware: A Brief Survey_
 <br>
 <br>
-_11:10 AM -- 11:30 AM_ <br> 
-Daniel Sanchez and Bogdan Copos. Cognitive Enhancement as an Attack Surface
+11:10 AM -- 11:30 AM <br> 
+_Daniel Sanchez and Bogdan Copos. Cognitive Enhancement as an Attack Surface_
 <br>
 <br>
-_11:30 AM -- 11:50 AM_ <br>
-Hui Lin. SDN-based In-network Honeypot: Preemptively Disrupt and Mislead Attacks in IoT Network
+11:30 AM -- 11:50 AM <br>
+_Hui Lin. SDN-based In-network Honeypot: Preemptively Disrupt and Mislead Attacks in IoT Network_
 <br>
 <br>
-_11:50 AM -- 12:10 PM_ <br>
-Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin and Ji Xiang. Hey, You, Keep away from My Device: Remotely Implanting a Virus Expeller to Defeat Mirai on IoT Devices
+11:50 AM -- 12:10 PM <br>
+_Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin and Ji Xiang. Hey, You, Keep away from My Device: Remotely Implanting a Virus Expeller to Defeat Mirai on IoT Devices_
 * * *
-**_12:10 PM -- 1:30 PM_** <br>
+**12:10 PM -- 1:30 PM** <br>
 **LUNCH BREAK**
 * * *
 #### Session II: Causality, Redaction and Legal frameworks
-_1:30 PM -- 1:50 PM_ <br>
-Ioannis Agadakos, Gabriela Ciocarlie, Bogdan Copos, Tancrede Lepoint, Ulf Lindqvist and Michael Locasto. Butterfly Effect: Causality from Chaos in the IoT
+1:30 PM -- 1:50 PM <br>
+_Ioannis Agadakos, Gabriela Ciocarlie, Bogdan Copos, Tancrede Lepoint, Ulf Lindqvist and Michael Locasto. Butterfly Effect: Causality from Chaos in the IoT_
 <br>
 <br>
 
-_1:50 PM -- 2:10 PM_ <br>
-Soteris Demetriou, Nathaniel D. Kaufman, Jonah Baim, Adam J. Goldsher and Carl A. Gunter. Toward an Extensible Framework for Redaction
+1:50 PM -- 2:10 PM <br>
+_Soteris Demetriou, Nathaniel D. Kaufman, Jonah Baim, Adam J. Goldsher and Carl A. Gunter. Toward an Extensible Framework for Redaction_
 <br>
 <br>
 
-_2:10 PM -- 2:30 PM_ <br>
-Sudip Vhaduri and Christian Poellabauer. Implicit Authentication in Wearables Using Multiple Biometrics
+2:10 PM -- 2:30 PM <br>
+_Sudip Vhaduri and Christian Poellabauer. Implicit Authentication in Wearables Using Multiple Biometrics_
 <br>
 <br>
 
-_2:30 PM -- 2:50 PM_  <br>
-Andrew Weyl and George Williamson. A Multinational Legal Examination of Individual Security Risks Related to the Internet of Things
+2:30 PM -- 2:50 PM <br>
+_Andrew Weyl and George Williamson. A Multinational Legal Examination of Individual Security Risks Related to the Internet of Things_
 
 * * *
-**_2:50 PM -- 3:30 PM_** <br>
+**2:50 PM -- 3:30 PM** <br>
 **COFFEE BREAK**
 * * *
+#### Session III: IoT Security Architectures
 
+3:30 PM -- 3:50 PM <br>
+_Giovani Gracioli, Murray Dunne and Sebastian Fischmeister. A Comparison of Data Streaming Frameworks for Anomaly Detection in Embedded Systems_
+<br>
+<br>
+
+3:50 PM -- 4:00 PM <br>
+_Safa Boudabous, Stephan Clémençon, Ons Jelassi and Mariona Caros Roca. A secure IoT architecture for streaming data analysis and anomaly detection_
+<br>
+<br>
+
+4:10 PM -- 4:30 PM <br>
+_Ebelechukwu Nwafor, Andre Campbell and Gedare Bloom. Anomaly-based Intrusion Detection of IoT Device Sensor Data using Provenance Graphs_
+<br>
+<br>
+
+4:30 PM -- 4:50 PM <br>
+_Hamed Haddadi, Vassilis Christophides, Renata Cruz Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig. SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security_
+<br>
+<br>
+
+4:50 PM -- 5:00 PM <br>
+_Concluding Remarks_
+
+* * *
+**6:00 PM -- 8:00 PM** <br>
+**RECEPTION**
+* * *
+ 
 
 
 
