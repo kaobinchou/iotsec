@@ -32,6 +32,8 @@ The Internet-of-Things (IoT) has taken off in a big way and finds itself embedde
 
 Hence, the goal of IoTSec will be to bring together experts in various areas (security, privacy, embedded systems, sensor networks, etc. along with domains experts from medicine, manufacturing systems, mobile devices and so on) to study and develop security and (usable) privacy mechanisms for next generation IoT systems.
 
+* * *
+
 ### Keynote: Prof. David M. Nicol, Univeristy of Illinois at Urban-Champaign
 
 #### **Title: The Role of Modeling and Simulation in IoT Security Research**
