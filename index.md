@@ -41,7 +41,7 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 <br>
 9:45 AM -- 10:00 AM <br> _Q & A_
 * * *
-**10:00 AM -- 10:30 AM** <br> **COFFEE BREAK**
+**10:00 AM -- 10:30 AM**  **COFFEE BREAK**
 * * *
 #### Session I: Attacks and Defenses
 10:30 AM -- 10:50 AM <br>
@@ -63,7 +63,7 @@ _Hui Lin. SDN-based In-network Honeypot: Preemptively Disrupt and Mislead Attack
 11:50 AM -- 12:10 PM <br>
 _Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin and Ji Xiang. Hey, You, Keep away from My Device: Remotely Implanting a Virus Expeller to Defeat Mirai on IoT Devices_
 * * *
-**12:10 PM -- 1:30 PM** <br>
+**12:10 PM -- 1:30 PM** 
 **LUNCH BREAK**
 * * *
 #### Session II: Causality, Redaction and Legal frameworks
@@ -84,7 +84,7 @@ _Sudip Vhaduri and Christian Poellabauer. Implicit Authentication in Wearables U
 _Andrew Weyl and George Williamson. A Multinational Legal Examination of Individual Security Risks Related to the Internet of Things_
 
 * * *
-**2:50 PM -- 3:30 PM** <br>
+**2:50 PM -- 3:30 PM** 
 **COFFEE BREAK**
 * * *
 #### Session III: IoT Security Architectures
