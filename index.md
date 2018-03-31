@@ -139,7 +139,7 @@ _Hamed Haddadi, Vassilis Christophides, Renata Cruz Teixeira, Kenjiro Cho, Shige
 _Concluding Remarks_
 
 * * *
-**6:00 PM -- 8:00 PM** <br>
+**6:00 PM -- 8:00 PM**
 **RECEPTION**
 * * *
  
