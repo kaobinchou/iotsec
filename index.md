@@ -30,25 +30,31 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 
 ### Program
 
-| | |
-|-|-|
-| 8:30 AM-8:45 AM | Welcome Remarks |
-| 8:45 AM-9:45 AM | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
-| 9:45 AM-10:00 AM | Q & A |
-| __10:00 AM-10:30 AM__ | __COFFEE BREAK__ |
-| | |
+| |
+|-|
+| 8:30 AM-8:45 AM  Welcome Remarks |
+| 8:45 AM-9:45 AM  Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
+| 9:45 AM-10:00 AM  Q & A |
+| __10:00 AM-10:30 AM__  __COFFEE BREAK__ |
+| |
 
 #### __Session I: Attacks and Defenses__ 
 |__BoldKey__| Value2 |
 | | |
 
+| |
+|-|
+| 8:30 AM-8:45 AM     Welcome Remarks |
+| 8:45 AM-9:45 AM      Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign |
 
 
-                          |          
+
+Time                      | Agenda         
 ------------------------- | --------------- 
-ShinRa                    | Mako Reactors   
-Moogles                   | MogNet          
-Vana'diel Chocobo Society | Chocobo Raising 
+8:30AM-8:45AM           | Welcome Remarks   
+8:45AM-9:45AM           | Keynote: "The Role of Modeling and Simulation in IOT Security Research", Prof. David M. Nicol,                                Univeristy of Illinois at Urban-Champaign          
+9:45AM-10:00AM          | Q & A 
+This is a long line          | Q & A 
 
 
 ### Areas of Interest
