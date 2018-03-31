@@ -30,6 +30,7 @@ Hence, the goal of IoTSec will be to bring together experts in various areas (se
 
 ### Program
 
+* * *
 _8:30 AM -- 8:45 AM_ <br> Welcome Remarks
 <br>
 <br>
@@ -64,6 +65,29 @@ Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin and Ji Xiang. Hey, You, Kee
 * * *
 **_12:10 PM -- 1:30 PM_** <br>
 **LUNCH BREAK**
+* * *
+#### Session II: Causality, Redaction and Legal frameworks
+_1:30 PM -- 1:50 PM_ <br>
+Ioannis Agadakos, Gabriela Ciocarlie, Bogdan Copos, Tancrede Lepoint, Ulf Lindqvist and Michael Locasto. Butterfly Effect: Causality from Chaos in the IoT
+<br>
+<br>
+
+_1:50 PM -- 2:10 PM_ <br>
+Soteris Demetriou, Nathaniel D. Kaufman, Jonah Baim, Adam J. Goldsher and Carl A. Gunter. Toward an Extensible Framework for Redaction
+<br>
+<br>
+
+_2:10 PM -- 2:30 PM_ <br>
+Sudip Vhaduri and Christian Poellabauer. Implicit Authentication in Wearables Using Multiple Biometrics
+<br>
+<br>
+
+_2:30 PM -- 2:50 PM_  <br>
+Andrew Weyl and George Williamson. A Multinational Legal Examination of Individual Security Risks Related to the Internet of Things
+
+* * *
+**_2:50 PM -- 3:30 PM_** <br>
+**COFFEE BREAK**
 * * *
 
 
