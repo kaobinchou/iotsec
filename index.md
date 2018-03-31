@@ -133,7 +133,7 @@ and identifies the associated challenges._
 * * *
 
 
-<img align="left" width="100" height="100" src="./figs/dnicole.jpeg">
+<img align="left" src="./figs/dnicole.jpeg">
 
 
 
