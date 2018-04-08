@@ -10,6 +10,8 @@ title: IoTSec 2018
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
 > **_News (04/08/2017): Workshop proceedings are available!_**
+
+
 > **_News (03/30/2017): Full workshop program available!_**
 
 
