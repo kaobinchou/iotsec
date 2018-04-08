@@ -9,6 +9,7 @@ title: IoTSec 2018
 
 ### _to be co-located with the <a href="http://conferences.computer.org/IoTDI/" target="_blank">3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI) 2018</a>, in Orlando, Florida, USA._
 
+> **_News (04/08/2017): Workshop proceedings are available!_**
 > **_News (03/30/2017): Full workshop program available!_**
 
 
@@ -60,6 +61,9 @@ David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer E
 * * *
 
 ### Program
+
+_Downlowad workshop proceedings from <a href="acceptedpapers_18/iotsec_2018_proceedings.pdf" target="_blank">[here]</a>._
+
 
 * * *
 8:30 AM -- 8:45 AM <br> _Welcome Remarks_
