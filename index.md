@@ -76,7 +76,7 @@ David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer E
 * * *
 #### Session I: Attacks and Defenses
 10:30 AM -- 10:50 AM <br>
-_Yuan Gong and Christian Poellabauer. An Overview of Vulnerabilities of Voice Controlled System_
+_Yuan Gong and Christian Poellabauer. An Overview of Vulnerabilities of Voice Controlled Systems_
 <br>
 <br>
 10:50 AM -- 11:10 AM <br> 
