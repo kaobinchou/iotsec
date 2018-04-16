@@ -64,7 +64,7 @@ David M. Nicol is the Franklin W. Woeltge Professor of Electrical and Computer E
 
 ### Program
 
-**_Downlowad workshop proceedings from <a href="acceptedpapers_18/iotsec_2018_proceedings.pdf" target="_blank">[here]</a>._**
+**_Download workshop proceedings from <a href="acceptedpapers_18/iotsec_2018_proceedings.pdf" target="_blank">[here]</a>._**
 
 
 * * *
